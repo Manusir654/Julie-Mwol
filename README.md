@@ -23,7 +23,7 @@ Project created by <a href="https://github.com/Manusir654">Manusir</a> to make i
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Manusir654/Julie-Mwol) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Manusir654/JulieMwol)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@farhandqz/JulieMwol)
   
 ### The Hard Method
 ```js
